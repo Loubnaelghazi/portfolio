@@ -3,7 +3,7 @@ show_downloads: false
 theme: jekyll-theme-leap-day
 plugins:
   - jekyll-remote-theme
-logo: /assets/logo.png  
+logo: /assets/LOGO MASTER.jpg  
 include:
   - assets/css/custom.css
 
