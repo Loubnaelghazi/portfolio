@@ -1,1 +1,30 @@
+body {
+    background-color: #f5f5f5; /* Couleur de fond douce */
+    color: #333333; /* Couleur du texte */
+}
+
+.site-title {
+    color: #5A9; /* Couleur douce pour le titre du site */
+}
+
+.post-title {
+    color: #7C8; /* Couleur douce pour les titres des articles */
+}
+
+a {
+    color: #9AD; /* Couleur douce pour les liens */
+}
+
+.navbar {
+    background-color: #EDEDED; /* Couleur douce pour la barre de navigation */
+}
+
+footer {
+    background-color: #EDEDED; /* Couleur douce pour le pied de page */
+    color: #333333; /* Couleur du texte dans le pied de page */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #5A9; /* Couleur douce pour les en-têtes */
+}
 
